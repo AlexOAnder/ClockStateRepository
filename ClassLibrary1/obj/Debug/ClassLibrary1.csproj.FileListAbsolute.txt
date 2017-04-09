@@ -1,0 +1,5 @@
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

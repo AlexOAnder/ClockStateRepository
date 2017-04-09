@@ -1,0 +1,21 @@
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\UnitTestProject1\bin\Debug\WindowsFormsApplication1.exe
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\UnitTestProject1\bin\Debug\WindowsFormsApplication1.pdb
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\UnitTestProject1\bin\Debug\ClockLibrary.dll
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\UnitTestProject1\bin\Debug\ClockLibrary.pdb
+C:\Users\AlexOAnder\Desktop\Сессия 2017\ВДИШП\WindowsFormsApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\AlexOAnder\Desktop\Сессия 2017\ВДИШП\WindowsFormsApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\AlexOAnder\Desktop\Сессия 2017\ВДИШП\WindowsFormsApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\AlexOAnder\Downloads\ВДИШП (1)\ВДИШП\ClockProgramm\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\AlexOAnder\Downloads\ВДИШП (1)\ВДИШП\ClockProgramm\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\AlexOAnder\Downloads\ВДИШП (1)\ВДИШП\ClockProgramm\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\AlexOAnder\Downloads\ВДИШП (1)\ВДИШП\ClockProgramm\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\AlexOAnder\Downloads\ВДИШП (1)\ВДИШП\ClockProgramm\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\AlexOAnder\Downloads\ВДИШП (1)\ВДИШП\ClockProgramm\UnitTestProject1\bin\Debug\ClockLibrary.dll
+C:\Users\AlexOAnder\Downloads\ВДИШП (1)\ВДИШП\ClockProgramm\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\AlexOAnder\Downloads\ВДИШП (1)\ВДИШП\ClockProgramm\UnitTestProject1\bin\Debug\ClockLibrary.pdb
+C:\Users\AlexOAnder\Downloads\ВДИШП (1)\ВДИШП\ClockProgramm\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll

@@ -1,0 +1,14 @@
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClockLibrary.dll
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClockLibrary.pdb
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClockLibrary.dll
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClockLibrary.pdb
+c:\Users\Aliaksandr_Hryharuk\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClockLibrary.csprojResolveAssemblyReference.cache
+C:\Users\AlexOAnder\Desktop\Сессия 2017\ВДИШП\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClockLibrary.dll
+C:\Users\AlexOAnder\Desktop\Сессия 2017\ВДИШП\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClockLibrary.pdb
+C:\Users\AlexOAnder\Desktop\Сессия 2017\ВДИШП\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClockLibrary.csprojResolveAssemblyReference.cache
+C:\Users\AlexOAnder\Desktop\Сессия 2017\ВДИШП\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClockLibrary.dll
+C:\Users\AlexOAnder\Desktop\Сессия 2017\ВДИШП\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClockLibrary.pdb
+C:\Users\AlexOAnder\Downloads\ВДИШП (1)\ВДИШП\ClockProgramm\ClassLibrary1\bin\Debug\ClockLibrary.dll
+C:\Users\AlexOAnder\Downloads\ВДИШП (1)\ВДИШП\ClockProgramm\ClassLibrary1\bin\Debug\ClockLibrary.pdb
+C:\Users\AlexOAnder\Downloads\ВДИШП (1)\ВДИШП\ClockProgramm\ClassLibrary1\obj\Debug\ClockLibrary.dll
+C:\Users\AlexOAnder\Downloads\ВДИШП (1)\ВДИШП\ClockProgramm\ClassLibrary1\obj\Debug\ClockLibrary.pdb
